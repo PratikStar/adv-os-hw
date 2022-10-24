@@ -166,7 +166,7 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Pratik Sutar");
   
 ///< The description -- see modinfo
-MODULE_DESCRIPTION("A simple Hello world LKM!");
+MODULE_DESCRIPTION("A simple Charter device driver LKM!");
   
 ///< The version of the module
 MODULE_VERSION("0.1");
